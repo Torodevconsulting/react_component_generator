@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit:*)",
+      "Bash(grep -E \"^\\(ai |brace|picomatch|next|jsondiffpatch|fix available|Severity|node_modules/ai$\\)\")"
+    ]
+  }
+}
