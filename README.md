@@ -1,3 +1,7 @@
+# Claude Code in Action 
+
+This repository is a fork of https://github.com/anthropics/uigen by Anthropic — an AI-powered React component generator that lets you describe UI in chat and get live-rendered components instantly. I'm using this codebase as a sandbox to follow the Claude in Action course and hands-on test https://claude.ai/code features such as inline editing, agentic tool use, and real-time code generation.
+
 # UIGen
 
 AI-powered React component generator with live preview.
